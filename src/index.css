@@ -1,0 +1,16 @@
+body {
+
+ font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(89deg, #eeb9d9 0% , #9ef2ec 100%);
+
+}
+
+button {
+  cursor: pointer;
+}
+
+
+
+
